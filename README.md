@@ -1,4 +1,15 @@
 # MinhTuyenVietTuongNgoc
 Bài tập git
 
-//ducminh commit
+
+
+
+
+#vietcommit
+
+#tuongcomit
+
+
+#tuyen commit
+#ngocnuane
+
